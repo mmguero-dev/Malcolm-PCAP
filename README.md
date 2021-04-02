@@ -33,7 +33,7 @@ For reference, here is a list of public packet capture repositories.
 * [PacketLife.net](https://packetlife.net/captures/)
 * [packetrat/packethunting: Resources and materials for DEF CON 2018 Packet Hunting Workshop](https://github.com/packetrat/packethunting)
 * [pcap | Weberblog.net](https://weberblog.net/tag/pcap/)
-* [PCAPLib](http://speed.cis.nctu.edu.tw/pcaplib/RemoteAccess.html LAST_CHARSET=Big5)
+* [PCAPLib](http://speed.cis.nctu.edu.tw/pcaplib/RemoteAccess.html)
 * [PCAPs for Testing — Security Onion](https://securityonion.readthedocs.io/en/latest/pcaps.html)
 * [pevma/mrp: Malformed random packet pcaps for some QA testing.](https://github.com/pevma/mrp)
 * [PracticalPAcketAnalysis](https://github.com/markofu/pcaps/tree/master/PracticalPacketAnalysis/ppa-capture-files)
