@@ -1,10 +1,14 @@
-# Malcolm-PCAP
+# ARCHIVED REPOSITORY
+
+This repository has been archived in favor of [idaholab/Malcolm-Test-Artifacts](https://github.com/idaholab/Malcolm-Test-Artifacts).
+
+## Malcolm-PCAP
 
 This repository contains a collection of PCAPs that I have pulled from a variety of sources in order to test the network protocol analyzers, log parsers and dashboards of [Malcolm](https://github.com/idaholab/Malcolm).
 
 These PCAP files have been merged and [aligned chronologically](./tools/pcap_time_shift.py) but are otherwise unaltered. I do not claim ownership nor responsibility for the PCAP files nor their contents. Some of the PCAPs may contain examples of malware in their payloads. Use at your own risk.
 
-## PCAP collections online
+### PCAP collections online
 
 For reference, here is a list of public packet capture repositories.
 
@@ -39,7 +43,7 @@ For reference, here is a list of public packet capture repositories.
 * [Wireshark Tutorial](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/) - Exporting Objects from a Pcap
 * [WRCCDC Public Archive](https://archive.wrccdc.org/pcaps/)
 
-## Test PCAP data sets from various projects
+### Test PCAP data sets from various projects
 
 * [arkime/arkime](https://github.com/arkime/arkime/tree/master/tests/pcap)
 * [dd-wrt](https://svn.dd-wrt.com/browser/src/router/ndpi-netfilter/tests/pcap)
